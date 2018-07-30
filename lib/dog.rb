@@ -1,6 +1,6 @@
 # dog.rb
 
-class dog
+class Dog
  
  def name = (name)
  @name = name 
